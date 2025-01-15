@@ -8,4 +8,4 @@
 [ ] 버츄얼 캐릭터 연동
 ```
 ### 기여자 😎
-- [`zer0ken`](https://github.com/zer0ken): 수석 개발자
+- [kyla-devs](https://github.com/kyla-devs)/[zer0ken](https://github.com/zer0ken): 수석 개발자
