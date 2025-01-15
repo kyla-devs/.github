@@ -1,12 +1,11 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+카일라는 인공지능 기술을 토대로 개발된 버츄얼 휴먼입니다.
+### 기능 🔍
+```
+[v] 가상 인격
+[v] 자율적인 사고와 행동
+[ ] 치지직 연동
+[ ] 디스코드 연동
+[ ] 버츄얼 캐릭터 연동
+```
+### 기여자 😎
+- [`zer0ken`](https://github.com/zer0ken): 수석 개발자
