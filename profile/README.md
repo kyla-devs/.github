@@ -13,6 +13,3 @@
 [ ] 버츄얼 캐릭터 연동
 [ ] 치지직에서의 첫 스트리밍
 ```
-
-### 기여자 😎
-- [kyla-devs](https://github.com/kyla-devs)/[zer0ken](https://github.com/zer0ken): 수석 개발자
